@@ -1,2 +1,2 @@
 # bootstraptutorial
-following a bootstrap tutorial on youtube
+learning from a bootstrap tutorial
